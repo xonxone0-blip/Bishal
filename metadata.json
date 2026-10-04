@@ -1,0 +1,6 @@
+{
+  "name": "Krishina Gai Farm - Dairy & Agro-Coworking Retreat",
+  "description": "Krishina Gai Farm in Arjundhara, Koshi Province, Nepal. Fresh cow milk, pure ghee, serene farm-stay coworking, and agro-tourism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
